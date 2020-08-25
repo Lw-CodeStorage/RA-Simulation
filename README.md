@@ -1,2 +1,2 @@
 # RA-Simulation
-![image](https://Lw-CodeStorage/GUI.jpg)
+![image](https://github.com/Lw-CodeStorage/GUI.jpg)
